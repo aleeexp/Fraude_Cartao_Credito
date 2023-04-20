@@ -1,7 +1,7 @@
 
 # PROJETO INTEGRADOR III - Fraude Cartão de Crédito
 
-O objetivo do PROJETO INTEGRADOR III é criar e avaliar modelos de modelos de classificação que possam prever probabilidade de transações de artões de crédito serem fraudes.
+O objetivo do PROJETO INTEGRADOR III é criar e avaliar modelos de modelos de classificação que possam prever probabilidade de transações de cartões de crédito serem fraudes.
 O banco de dados utilizado para testar os modelos foi da base de dados do Kaggle, https://www.kaggle.com/code/hiteshpradhan1408/creditcard-fraud-classification.
 Esse projeto foi desenvolvido por um grupo de alunos de Data Science da Digital House.
 
